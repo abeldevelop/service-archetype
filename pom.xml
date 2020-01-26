@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.abeldevelop.architecture</groupId>
-	<artifactId>abeldevelop-services-archetype</artifactId>
+	<artifactId>service-archetype</artifactId>
 	<version>1.0.0</version>
 	<packaging>maven-archetype</packaging>
 
-	<name>abeldevelop-services-archetype</name>
+	<name>service-archetype</name>
 
 	<build>
 		<extensions>

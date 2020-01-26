@@ -5,7 +5,7 @@ package ${package}.service.validation;
 
 import org.springframework.stereotype.Component;
 
-import com.abeldevelop.architecture.library.common.validation.ValidationResource;
+import com.abeldevelop.architecture.library.common.factory.validation.ValidationResource;
 
 @Component
 public class ExampleValidation implements ValidationResource {
